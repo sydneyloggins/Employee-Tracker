@@ -11,7 +11,8 @@ This command line application utilizes JavaScript, mySQL, and Node to display a 
 Clone the code, run npm install.
 Run node index.js in terminal.
 
-Follow this link for a video demonstration: file:///Users/sydneyloggins/Downloads/Employee-Tracker.webm
+Follow this link for a video demonstration: https://drive.google.com/file/d/1AegPziBpTXtT9Zca6aTjcZWQxc02gqUE/view
+
 
 ## Usage
 Command line view: ![Screenshot 2023-06-06 at 11 52 59 AM](https://github.com/sydneyloggins/Employee-Tracker/assets/125998308/74239a66-4138-4569-adab-46fd9a171f18)
